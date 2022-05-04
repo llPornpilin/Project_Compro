@@ -16,12 +16,12 @@
   3. ลดค่าใช้จ่ายในการติดตั้งอุปกรณ์ราคาแพงเพื่อรักษาความปลอดภัย
 
 <b>อุปกรณ์</b><br>
-![image](https://user-images.githubusercontent.com/88420671/166657183-22f6d4ba-c7f2-4973-ae8a-bf035c975bc5.png)
-![image](https://user-images.githubusercontent.com/88420671/166657335-da558e56-70c3-4f53-bf02-67b39a9bf3a5.png)
-![image](https://user-images.githubusercontent.com/88420671/166657359-38477cee-5dbf-4372-9ddc-a9e8da3870a4.png)
-![image](https://user-images.githubusercontent.com/88420671/166657383-98dbf3ad-286e-4024-9c63-781665dd4e9d.png)
-![image](https://user-images.githubusercontent.com/88420671/166657399-70d8aad2-9327-456c-8fae-c5e1e2358426.png)
-![image](https://user-images.githubusercontent.com/88420671/166657478-f4151467-0850-471a-a4c9-4a401f309b1f.png)
+![image](https://user-images.githubusercontent.com/88420671/166657183-22f6d4ba-c7f2-4973-ae8a-bf035c975bc5.png)<br>
+![image](https://user-images.githubusercontent.com/88420671/166657335-da558e56-70c3-4f53-bf02-67b39a9bf3a5.png)<br>
+![image](https://user-images.githubusercontent.com/88420671/166657359-38477cee-5dbf-4372-9ddc-a9e8da3870a4.png)<br>
+![image](https://user-images.githubusercontent.com/88420671/166657383-98dbf3ad-286e-4024-9c63-781665dd4e9d.png)<br>
+![image](https://user-images.githubusercontent.com/88420671/166657399-70d8aad2-9327-456c-8fae-c5e1e2358426.png)<br>
+![image](https://user-images.githubusercontent.com/88420671/166657478-f4151467-0850-471a-a4c9-4a401f309b1f.png)<br>
 
 
 <b>หลักการทำงาน</b><br>
