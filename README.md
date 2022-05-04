@@ -16,7 +16,8 @@
   3. ลดค่าใช้จ่ายในการติดตั้งอุปกรณ์ราคาแพงเพื่อรักษาความปลอดภัย
 
 <b>อุปกรณ์</b><br>
-![image](https://user-images.githubusercontent.com/88420671/166657183-22f6d4ba-c7f2-4973-ae8a-bf035c975bc5.png)<br>
+<img src = "https://user-images.githubusercontent.com/88420671/166657183-22f6d4ba-c7f2-4973-ae8a-bf035c975bc5.png" width = "200px">
+
 ![image](https://user-images.githubusercontent.com/88420671/166657335-da558e56-70c3-4f53-bf02-67b39a9bf3a5.png)<br>
 ![image](https://user-images.githubusercontent.com/88420671/166657359-38477cee-5dbf-4372-9ddc-a9e8da3870a4.png)<br>
 ![image](https://user-images.githubusercontent.com/88420671/166657383-98dbf3ad-286e-4024-9c63-781665dd4e9d.png)<br>
