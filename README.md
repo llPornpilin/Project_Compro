@@ -38,9 +38,8 @@
  
 <a href = "https://wokwi.com/projects/330350510226801235">ลิ้งค์ Wokwi Ultrasonic</a><br>
 <a href = "https://wokwi.com/projects/330897401225151060">ลิ้งค์ Wokwi Led and Buzzer</a><br>
- <br /> <br>
   
-<b>สมาชิกกลุ่ม</b><br /> <br>
+<b>สมาชิกกลุ่ม</b>
   1. นางสาว กุลธิดา         จำปา          64070008<br>
   2. นางสาว ปัณณพร        จึงเปี่ยมสุข      64070183<br>
   3. นางสาว พรไพลิน        วงศ์ศรีตรัง      64070196<br>
