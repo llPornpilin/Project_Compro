@@ -37,6 +37,7 @@
   นางสาวปัณณพร      จึงเปี่ยมสุข    64070183<br>
   นางสาวพรไพลิน      วงศ์ศรีตรัง    64070196<br>
   
-
+<a href = "https://wokwi.com/projects/330350510226801235">ลิ้งค์ Wokwi Ultrasonic</a>
+<a href = "https://wokwi.com/projects/330897401225151060">ลิ้งค์ Wokwi Led and Buzzer</a>
 
 
