@@ -19,8 +19,8 @@
 <img src = "https://user-images.githubusercontent.com/88420671/166657183-22f6d4ba-c7f2-4973-ae8a-bf035c975bc5.png" width = "200px"><br>
 2. LED <br>
 <img src = "https://user-images.githubusercontent.com/88420671/166657335-da558e56-70c3-4f53-bf02-67b39a9bf3a5.png" width = "200px"><br>
-3. Resistor <br>
-<img src = "https://user-images.githubusercontent.com/88420671/166657359-38477cee-5dbf-4372-9ddc-a9e8da3870a4.png" width = "200px"><br>
+3. Resistor 220 โอห์ม 2 อัน<br>
+<img src = "https://user-images.githubusercontent.com/101054221/167414625-871ac7e3-0a92-44bf-8e95-57145c0e22b7.png" width = "200px"><br>
 4. HC-SR04 Ultrasonic Distance Sensor <br>
 <img src = "https://user-images.githubusercontent.com/88420671/166657383-98dbf3ad-286e-4024-9c63-781665dd4e9d.png" width = "200px"><br>
 5. Buzzer <br>
