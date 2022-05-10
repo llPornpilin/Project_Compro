@@ -35,9 +35,9 @@
   เมื่อติดตั้งอุปกรณ์ ultrasonic security ไว้บริเวณที่ต้องการเช่นหน้าประตูบ้านแล้ว หากในเวลากลางคืนต้องการใช้งานอุปกรณ์ก็ทำการเปิดสวิตช์เพื่อให้เซนเซอร์ทำงาน เมื่อมีคนเข้าใกล้บริเวณที่ติดตั้งอุปกรณ์ไว้ในระยะ 50 เซนติเมตร จะมีการส่งสัญญาณผ่านระบบ internet ไปสั่งการให้ลำโพงและหลอดไฟ led ทำงาน เพื่อแจ้งเตือนให้คนภายในบ้านได้รับรู้ และหากไม่ต้องการใช้งานสามารถทำการปิดสวิตช์ได้
  <br /> <br>
  
-<a href = "https://youtu.be/7cu831H9Jzg">ลิ้งค์นำเสนอ สาธิตการทำงาน</a><br>
-<a href = "https://wokwi.com/projects/330350510226801235">ลิ้งค์ Wokwi Ultrasonic</a><br>
-<a href = "https://wokwi.com/projects/330897401225151060">ลิ้งค์ Wokwi Led and Buzzer</a><br>
+<a href = "https://youtu.be/7cu831H9Jzg">Presentation</a><br>
+<a href = "https://wokwi.com/projects/330350510226801235">Wokwi Ultrasonic</a><br>
+<a href = "https://wokwi.com/projects/330897401225151060">Wokwi Led and Buzzer</a><br>
   
 <b>สมาชิกกลุ่ม</b>
   1. นางสาว กุลธิดา         จำปา          64070008<br>
